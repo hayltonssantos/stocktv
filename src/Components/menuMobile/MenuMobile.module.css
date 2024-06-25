@@ -1,0 +1,28 @@
+.divList{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.list{
+  display: flex;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.listU{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  box-sizing: border-box;
+  transition: 0.5s;
+}
+
+.listU a{
+  text-decoration: none;
+  height: auto;
+  color: black;
+  font-weight: 300;
+}

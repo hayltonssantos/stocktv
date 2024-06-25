@@ -5,63 +5,88 @@ import { getFirestore, addDoc, collection, onSnapshot, query, updateDoc, doc, se
 export const ItemsContext = createContext();
 
 export const ItemsProvider = ({ children }) => {
-  
   const db = getFirestore(firebaseApp);
   const [items, setItems] = useState([]);
   const [searchLocal, setSearchLocal] = useState('');
   const [searchArt, setSearchArt] = useState('');
   const [searchCod, setSearchCod] = useState('');
+  const [searchTipo, setSearchTipo] = useState('');
+  let [pathArticle, setPathArticle] = useState('');
+  let [pathDoc, setPathDoc] = useState('');
 
   useEffect(() => {
     const fetchData = async () => {
       try {
         const q = query(collection(db, 'articles'));
         const querySnapshot = await getDocs(q);
-  
+
         const aux = [];
-        await Promise.all(querySnapshot.docs.map(async (doc) => {
-          const local = doc.id; // Obtém o local como ID do documento
-          const codesSnapshot = await getDocs(collection(db, `articles/${local}/codes`)); // Obtém a subcoleção de códigos
-          
-          codesSnapshot.docs.forEach((codeDoc) => { // Usando docs para acessar os documentos
-            const codeData = {
-              local,
-              id: codeDoc.id, // ID do código de artigo
-              ...codeDoc.data() // Dados do código de artigo
-            };
-            aux.push(codeData);
-          });
-        }));
+        await Promise.all(
+          querySnapshot.docs.map(async (doc) => {
+            const local = doc.id; // Obtém o local como ID do documento
+            const codesSnapshot = await getDocs(collection(db, `articles/${local}/codes`)); // Obtém a subcoleção de códigos
+
+            codesSnapshot.docs.forEach((codeDoc) => {
+              // Usando docs para acessar os documentos
+              const codeData = {
+                local,
+                id: codeDoc.id, // ID do código de artigo
+                ...codeDoc.data(), // Dados do código de artigo
+              };
+              aux.push(codeData);
+            });
+          })
+        );
         setItems([...aux]);
       } catch (error) {
         console.error('Error fetching data: ', error);
       }
     };
-  
+
     fetchData();
   }, []);
 
-  const addArtigo = async (local, codigo, artigo, quantidade) => {
+  const addArtigo = async (local,tipo = '', codigo, artigo, quantidade,obs = '') => {
     const articleData = {
+      id: codigo,
+      tipo,
       codigo,
       artigo,
-      quantidade
+      quantidade,
+      obs,
     };
 
-    // Adiciona o artigo à subcoleção de códigos do local correspondente
-    await addDoc(collection(db, `articles/${local}/codes`), articleData);
+    const temp = {
+      temp: 'temp',
+    };
+
+    local = local.toUpperCase();
+
+    pathArticle = `articles/${local}/codes/${codigo}`;
+    pathDoc = `articles/${local}`;
+
+    try {
+      await setDoc(doc(db, pathDoc), temp);
+      await setDoc(doc(db, pathArticle), articleData);
+      await updateDoc(doc(db, pathArticle), articleData);
+    } catch (error) {
+      throw new Error('Erro ao adicionar artigo: ' + error.message);
+    }
   };
 
   const getFilteredItems = () => {
-    return items.filter(item =>
-      (searchLocal ? item.local.toLowerCase().includes(searchLocal.toLowerCase()) : true) &&
-      (searchCod ? item.codigo.toLowerCase().includes(searchCod.toLowerCase()) : true) &&
-      (searchArt ? item.artigo.toLowerCase().includes(searchArt.toLowerCase()) : true)
-    );
+    return items.filter((item) => {
+      const localMatch = searchLocal ? item.local && item.local.toUpperCase().includes(searchLocal.toUpperCase()) : true;
+      const codigoMatch = searchCod ? item.codigo && String(item.codigo).toUpperCase().includes(searchCod.toUpperCase()) : true;
+      const artigoMatch = searchArt ? item.artigo && item.artigo.toUpperCase().includes(searchArt.toUpperCase()) : true;
+      const tipoMatch = searchTipo ? item.tipo && item.tipo.toUpperCase().includes(searchTipo.toUpperCase()) : true;
+
+      return localMatch && codigoMatch && artigoMatch && tipoMatch;
+    });
   };
 
   return (
-    <ItemsContext.Provider value={{ items, setItems, getFilteredItems, setSearchLocal, setSearchArt, setSearchCod, addArtigo }}>
+    <ItemsContext.Provider value={{ items, setItems, getFilteredItems, setSearchLocal, setSearchArt, setSearchCod, addArtigo, setSearchTipo }}>
       {children}
     </ItemsContext.Provider>
   );

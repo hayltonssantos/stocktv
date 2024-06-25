@@ -1,0 +1,53 @@
+ input{
+    z-index: 20;
+    margin: 10px;
+    font-size: 20px;
+
+    color: black;
+
+    border-radius: 10px;
+
+    padding: 5px;
+    padding-left: 10px;
+
+    max-width: 50%;
+    width: 70%;
+    height: 50%;
+
+    border: none;
+    border-bottom: 3px solid rgb(255, 255, 255);
+
+    outline: none;
+
+}
+
+input:focus {
+    border: none;
+    transition: 2s;
+    animation: changeSize 1s, in 1s infinite;
+    width: 80%;
+}
+
+
+
+input::placeholder{
+    font-size: 15px;
+}
+
+@keyframes in {
+    0%{
+        border-bottom: 2px solid rgb(0, 255, 110);
+    }
+    100%{
+        border-bottom: 2px solid rgb(0, 0, 0);
+    }
+} 
+@keyframes changeSize {
+    0%{
+        width: 70%
+    }
+    100%{
+        width: 80%;
+    }
+} 
+

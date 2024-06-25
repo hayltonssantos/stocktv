@@ -1,14 +1,21 @@
 /* styles.css */
-.table-container {
-  margin: 20px;
-  border: 1px solid #007BFF;
+.tableContainer {
+  margin-top: 40px;
+  background-color: #f0f8ff;
+  border: 1px solid #00A5AA;
   border-radius: 8px;
-  overflow: hidden;
+  display: flex;
+  width: 70vw;    
+  height: 65vh;
+  overflow-y: scroll;
+  
 }
+
 
 table {
   width: 100%;
   border-collapse: collapse;
+  
 }
 
 caption {
@@ -16,17 +23,20 @@ caption {
   font-size: 1.5em;
   margin: 10px 0;
   color: #0056b3;
+  
 }
 
 th, td {
   padding: 10px;  
   text-align: center;
+  
 }
 
 thead th {
-  background-color: #007BFF;
+  background-color: #00A5AA;
   color: white;
-  text-align: center; /* Centraliza o texto no cabeçalho */
+  text-align: center;
+   /* Centraliza o texto no cabeçalho */
 }
 
 tbody tr:nth-child(odd) {
@@ -42,11 +52,11 @@ tbody tr:hover {
 }
 
 th, td {
-  border-bottom: 1px solid #007BFF;
+  border-bottom: 1px solid #00A5AA;
 }
 
 th {
-  border-right: 1px solid #007BFF;
+  border-right: 1px solid #00A5AA;
 }
 
 td {
@@ -55,4 +65,52 @@ td {
 
 tbody tr:last-child td {
   border-bottom: none;
+}
+
+.selectS{
+  height: 30px;
+  border-radius: 20px;
+  border: none;
+  padding: 5px;
+}
+
+.inputS{
+  width: 100px;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .tableContainer {
+    margin-top: 40px;
+    background-color: #f0f8ff;
+    border: 1px solid #00A5AA;
+    border-radius: 8px;
+    display: flex;
+    
+    height: 65vh;
+    width: 90vw;
+    overflow-y: scroll;
+  }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+ 
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1200px) {
+
 }

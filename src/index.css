@@ -10,5 +10,7 @@
   background-color: #d2e8ff;
 
   width: 100vw;
+  
+  transition: 0.5s;
 }
 

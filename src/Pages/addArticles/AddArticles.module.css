@@ -1,0 +1,41 @@
+.add{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  max-width: 90vw;
+}
+
+.text{
+  font-size: 1.2em;
+  width: 100%;
+}
+
+.formInputs{
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+.divInputs{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.divButton{
+  width: 100%;
+}
+
+/* Adicione esta classe para ocultar todos os itens */
+.codeList option {
+  display: none;
+  overflow: hidden;
+}
+
+/* Adicione esta classe para exibir apenas os três primeiros itens */
+.codeList option:nth-child(-n+3) {
+  display: list-item;
+}

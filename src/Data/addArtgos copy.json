@@ -1,0 +1,2568 @@
+[
+  {
+   "local": "A-101",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 120
+  },
+  {
+   "local": "A-102",
+   "tipo": "Aventais & Panos",
+   "codigo": 449,
+   "artigo": "Pano de Serviço 50x50",
+   "quantidade": 970
+  },
+  {
+   "local": "A-103",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 120
+  },
+  {
+   "local": "A-111",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 120
+  },
+  {
+   "local": "A-112",
+   "tipo": "Turcos",
+   "codigo": 65161,
+   "artigo": "Toalha Rosto S\/Luxo 70x90",
+   "quantidade": 285
+  },
+  {
+   "local": "A-113",
+   "tipo": "Aventais & Panos",
+   "codigo": 1141,
+   "artigo": "Pano de Cozinha 50x50",
+   "quantidade": 910
+  },
+  {
+   "local": "A-113",
+   "tipo": "Aventais & Panos",
+   "codigo": 449,
+   "artigo": "Pano de Serviço 50x50",
+   "quantidade": 130
+  },
+  {
+   "local": "A-121",
+   "tipo": "Turcos Pers",
+   "codigo": 38934,
+   "artigo": "Toalha Banho ACCOR UNIV. 68X133",
+   "quantidade": 180,
+   "obs": "MERCURE"
+  },
+  {
+   "local": "A-122",
+   "tipo": "Turcos",
+   "codigo": 65153,
+   "artigo": "Toalha de Banho Standard 70x150",
+   "quantidade": 300
+  },
+  {
+   "local": "A-123",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 130
+  },
+  {
+   "local": "A-201",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 560018,
+   "artigo": "Toalhete GIRASSOL 55X47",
+   "quantidade": 300
+  },
+  {
+   "local": "A-201",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 12345,
+   "artigo": "Table choco 45x100",
+   "quantidade": 140
+  },
+  {
+   "local": "A-201",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 560379,
+   "artigo": "Téte à Téte \"TAF\" Chocolate 50x140",
+   "quantidade": 100
+  },
+  {
+   "local": "A-201",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 560325,
+   "artigo": "Toalha \"TAF\" Castanho 10x10",
+   "quantidade": 83
+  },
+  {
+   "local": "A-201",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 5093,
+   "artigo": "Toalha Platine Bordeaux 12x12",
+   "quantidade": 280
+  },
+  {
+   "local": "A-201",
+   "tipo": "Turcos Pers",
+   "codigo": 38934,
+   "artigo": "Toalha Banho ACCOR UNIV. 68X133",
+   "quantidade": 15,
+   "obs": "MERCURE"
+  },
+  {
+   "local": "A-202",
+   "tipo": "Aventais & Panos",
+   "codigo": 1096,
+   "artigo": "Avental Chefe",
+   "quantidade": 90
+  },
+  {
+   "local": "A-202",
+   "tipo": "Fronhas",
+   "codigo": 560022,
+   "artigo": "Fronha Cordoné 65X80",
+   "quantidade": 100
+  },
+  {
+   "local": "A-202",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 602591,
+   "artigo": "Toalha Baltic 18x18",
+   "quantidade": 21
+  },
+  {
+   "local": "A-202",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 48151,
+   "artigo": "Toalha Carré Lama 15x20",
+   "quantidade": 60
+  },
+  {
+   "local": "A-203",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 48160,
+   "artigo": "Guardanapo Bande Satin Taupe 55x55",
+   "quantidade": 200
+  },
+  {
+   "local": "A-203",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 77836,
+   "artigo": "Toalha ODP Cinza 15x20",
+   "quantidade": 17
+  },
+  {
+   "local": "A-203",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 77838,
+   "artigo": "Toalha ODP Cinza 20x20",
+   "quantidade": 84
+  },
+  {
+   "local": "A-203",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 77831,
+   "artigo": "Téte à Téte ODP Cinza 40x100",
+   "quantidade": 67
+  },
+  {
+   "local": "A-203",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 830,
+   "artigo": "Toalha FB 12x12",
+   "quantidade": 20
+  },
+  {
+   "local": "A-211",
+   "tipo": "Aventais & Panos",
+   "codigo": 5001,
+   "artigo": "Pano de Copos 75x46",
+   "quantidade": 600
+  },
+  {
+   "local": "A-211",
+   "tipo": "Turcos Pers",
+   "codigo": 38934,
+   "artigo": "Toalha Banho ACCOR UNIV. 68X133",
+   "quantidade": 75,
+   "obs": "MERCURE"
+  },
+  {
+   "local": "A-213",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 120
+  },
+  {
+   "local": "A-221",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "A-222",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "A-223",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "A-301",
+   "tipo": "Aventais & Panos",
+   "codigo": 3465,
+   "artigo": "Pano Alimentar 50x50",
+   "quantidade": 991
+  },
+  {
+   "local": "A-302",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 70834,
+   "artigo": "Toalha Ritz Amarela 21x44",
+   "quantidade": 7
+  },
+  {
+   "local": "A-302",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 70835,
+   "artigo": "Toalha Ritz Amarela 24x24",
+   "quantidade": 53
+  },
+  {
+   "local": "A-302",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 70836,
+   "artigo": "Toalha Ritz Amarela 28x30",
+   "quantidade": 39
+  },
+  {
+   "local": "A-303",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 70832,
+   "artigo": "Guardanapo Ritz Amarelo",
+   "quantidade": 80
+  },
+  {
+   "local": "A-303",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 70828,
+   "artigo": "Guardanapo Ritz Branco",
+   "quantidade": 4420
+  },
+  {
+   "local": "A-312",
+   "tipo": "Turcos Pers",
+   "codigo": 560260,
+   "artigo": "Tapete Banho Inter Br 50x85",
+   "quantidade": 210
+  },
+  {
+   "local": "A-313",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 77829,
+   "artigo": "Guardanapo ODP Cinza 60x60",
+   "quantidade": 3060
+  },
+  {
+   "local": "A-321",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 130
+  },
+  {
+   "local": "A-322",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "A-323",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "A-401",
+   "tipo": "Turcos Pers",
+   "codigo": 560260,
+   "artigo": "Tapete Banho Inter Br 50x85",
+   "quantidade": 240
+  },
+  {
+   "local": "A-402",
+   "tipo": "Lençóis",
+   "codigo": 11143,
+   "artigo": "Lençol Classico 300x320 2L.preta",
+   "quantidade": 100
+  },
+  {
+   "local": "A-403",
+   "tipo": "Fronhas",
+   "codigo": 560057,
+   "artigo": "Fronha Luxo 60x75",
+   "quantidade": 253,
+   "obs": "FORA SERVIÇO"
+  },
+  {
+   "local": "A-403",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 48164,
+   "artigo": "Toalha Taupe 15x15",
+   "quantidade": 137
+  },
+  {
+   "local": "A-411",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "A-412",
+   "tipo": "Lençóis",
+   "codigo": 11143,
+   "artigo": "Lençol Classico 300x320 2L.preta",
+   "quantidade": 160
+  },
+  {
+   "local": "A-413",
+   "tipo": "Lençóis",
+   "codigo": 11143,
+   "artigo": "Lençol Classico 300x320 2L.preta",
+   "quantidade": 160
+  },
+  {
+   "local": "A-421",
+   "tipo": "Turcos Pers",
+   "codigo": 560260,
+   "artigo": "Tapete Banho Inter Br 50x85",
+   "quantidade": 297
+  },
+  {
+   "local": "A-422",
+   "tipo": "Lençóis",
+   "codigo": 11143,
+   "artigo": "Lençol Classico 300x320 2L.preta",
+   "quantidade": 160
+  },
+  {
+   "local": "A-422",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "A-423",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "A-501",
+   "tipo": "Turcos Pers",
+   "codigo": 560260,
+   "artigo": "Tapete Banho Inter Br 50x85",
+   "quantidade": 360
+  },
+  {
+   "local": "A-502",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": "ritz1",
+   "artigo": "Coleção Antiga Ritz (toalhas e guardanapos)",
+   "quantidade": 1
+  },
+  {
+   "local": "A-503",
+   "tipo": "Piscinas",
+   "codigo": 356914,
+   "artigo": "Toalha Piscina Roxa",
+   "quantidade": 36,
+   "obs": "Martinhal"
+  },
+  {
+   "local": "A-503",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 42
+  },
+  {
+   "local": "A-511",
+   "tipo": "Piscinas",
+   "codigo": 356914,
+   "artigo": "Toalha Piscina Roxa",
+   "quantidade": 96,
+   "obs": "Martinhal"
+  },
+  {
+   "local": "A-511",
+   "tipo": "Turcos",
+   "codigo": 63827,
+   "artigo": "Toalha Banho 100x160 BEGE SPA",
+   "quantidade": 120
+  },
+  {
+   "local": "A-512",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 120
+  },
+  {
+   "local": "A-513",
+   "tipo": "Turcos Pers",
+   "codigo": 560257,
+   "artigo": "Toalha Banho Inter Br 100x200",
+   "quantidade": 106
+  },
+  {
+   "local": "A-601",
+   "tipo": "Turcos",
+   "codigo": 65166,
+   "artigo": "Tapete Banho S\/Luxo 50x80",
+   "quantidade": 978
+  },
+  {
+   "local": "A-601",
+   "tipo": "Turcos Pers",
+   "codigo": 560258,
+   "artigo": "Toalha Rosto Inter Br 50x100",
+   "quantidade": 400
+  },
+  {
+   "local": "A-602",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 560041,
+   "artigo": "Guardanapo \"TAF\" CASTANHO",
+   "quantidade": 285
+  },
+  {
+   "local": "A-603",
+   "tipo": "Turcos",
+   "codigo": 2847,
+   "artigo": "Toalhetes COCOON 30x30",
+   "quantidade": 1970
+  },
+  {
+   "local": "A-611",
+   "tipo": "Capas",
+   "codigo": 560262,
+   "artigo": "Capa Cairo S\/Pala 280x230",
+   "quantidade": 160
+  },
+  {
+   "local": "A-611",
+   "tipo": "Capas",
+   "codigo": 601235,
+   "artigo": "Capa S\/Luxo P26 Azul",
+   "quantidade": 124
+  },
+  {
+   "local": "A-612",
+   "tipo": "Roupões",
+   "codigo": 560288,
+   "artigo": "Roupão c\/ Capuz Criança O",
+   "quantidade": 26,
+   "obs": "Criança Martinhal"
+  },
+  {
+   "local": "A-612",
+   "tipo": "Roupões",
+   "codigo": 560183,
+   "artigo": "Roupão Favo Martinhal",
+   "quantidade": 85,
+   "obs": "Adulto - Logo Roxo"
+  },
+  {
+   "local": "A-613",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 28
+  },
+  {
+   "local": "A-622",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "A-623",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "A-701",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 560041,
+   "artigo": "Guardanapo \"TAF\" CASTANHO",
+   "quantidade": 3300
+  },
+  {
+   "local": "A-701",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 560045,
+   "artigo": "ToaCetim BegeEsc(76)15x15 (Castanho)",
+   "quantidade": 17
+  },
+  {
+   "local": "A-702",
+   "tipo": "Fronhas",
+   "codigo": 560423,
+   "artigo": "Fronha HOT br 55x90 L\/cinza",
+   "quantidade": 980
+  },
+  {
+   "local": "A-711",
+   "tipo": "Roupões",
+   "codigo": 560183,
+   "artigo": "Roupão Favo Martinhal",
+   "quantidade": 30,
+   "obs": "Adulto - Logo Roxo"
+  },
+  {
+   "local": "A-712",
+   "tipo": "Capas",
+   "codigo": 601235,
+   "artigo": "Capa S\/Luxo P26 Azul",
+   "quantidade": 207
+  },
+  {
+   "local": "A-713",
+   "tipo": "Capas",
+   "codigo": 601235,
+   "artigo": "Capa S\/Luxo P26 Azul",
+   "quantidade": 191
+  },
+  {
+   "local": "A-721",
+   "tipo": "Turcos Pers",
+   "codigo": 560257,
+   "artigo": "Toalha Banho Inter Br 100x200",
+   "quantidade": 105
+  },
+  {
+   "local": "A-722",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "A-723",
+   "tipo": "Turcos Pers",
+   "codigo": 603396,
+   "artigo": "Toalha Rosto MARRIOT 50x100 - 2018",
+   "quantidade": 480
+  },
+  {
+   "local": "A-801",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 440
+  },
+  {
+   "local": "A-802",
+   "tipo": "Turcos",
+   "codigo": 65161,
+   "artigo": "Toalha Rosto S\/Luxo 70x90",
+   "quantidade": 387
+  },
+  {
+   "local": "B-101",
+   "tipo": "Capas",
+   "codigo": 601235,
+   "artigo": "Capa S\/Luxo P26 Azul",
+   "quantidade": 228
+  },
+  {
+   "local": "B-101",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 63
+  },
+  {
+   "local": "B-102",
+   "tipo": "Colchas",
+   "codigo": 4387,
+   "artigo": "Colchas etiq. 18",
+   "quantidade": 28
+  },
+  {
+   "local": "B-112",
+   "tipo": "Turcos",
+   "codigo": 65166,
+   "artigo": "Tapete Banho S\/Luxo 50x80",
+   "quantidade": 344
+  },
+  {
+   "local": "B-112",
+   "tipo": "Turcos",
+   "codigo": 65161,
+   "artigo": "Toalha Rosto S\/Luxo 70x90",
+   "quantidade": 344
+  },
+  {
+   "local": "B-113",
+   "tipo": "Lençóis",
+   "codigo": 2051,
+   "artigo": "Lençol Classico 240x320 2L.verde",
+   "quantidade": 204
+  },
+  {
+   "local": "B-121",
+   "tipo": "Fronhas",
+   "codigo": 621395,
+   "artigo": "Fronha Cairo L.Vermelha",
+   "quantidade": 1500
+  },
+  {
+   "local": "B-121",
+   "tipo": "Tapetes Noite & 1\/2 Linho",
+   "codigo": 560403,
+   "artigo": "Tapete Noite BDiaNoite 45x70 Cetim Bord.",
+   "quantidade": 500
+  },
+  {
+   "local": "B-122",
+   "tipo": "Turcos Pers",
+   "codigo": 560259,
+   "artigo": "Toalha Bidé Inter Br 30x50",
+   "quantidade": 1400
+  },
+  {
+   "local": "B-201",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 560109,
+   "artigo": "Guardanapo \"TAF\" Preto 55x55",
+   "quantidade": 400
+  },
+  {
+   "local": "B-201",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 70828,
+   "artigo": "Guardanapo Ritz Branco",
+   "quantidade": 600
+  },
+  {
+   "local": "B-201",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 11452,
+   "artigo": "Toalha Platine Bordeaux 9x9",
+   "quantidade": 140
+  },
+  {
+   "local": "B-202",
+   "tipo": "Turcos",
+   "codigo": 65161,
+   "artigo": "Toalha Rosto S\/Luxo 70x90",
+   "quantidade": 327
+  },
+  {
+   "local": "B-203",
+   "tipo": "Lençóis",
+   "codigo": 70504,
+   "artigo": "Lençol FESTON RITZ 240X330",
+   "quantidade": 1
+  },
+  {
+   "local": "B-203",
+   "tipo": "Turcos",
+   "codigo": 65160,
+   "artigo": "Toalha Rosto Luxo 70x90",
+   "quantidade": 360
+  },
+  {
+   "local": "B-211",
+   "tipo": "Capas",
+   "codigo": 601235,
+   "artigo": "Capa S\/Luxo P26 Azul",
+   "quantidade": 202
+  },
+  {
+   "local": "B-213",
+   "tipo": "Turcos",
+   "codigo": 65152,
+   "artigo": "Toalha Banho Luxo 100x150",
+   "quantidade": 15
+  },
+  {
+   "local": "B-221",
+   "tipo": "Turcos Pers",
+   "codigo": 601918,
+   "artigo": "Toalha Rosto Elev Sofitel 40x80 blc - SOFITEL 2018",
+   "quantidade": 450
+  },
+  {
+   "local": "B-223",
+   "tipo": "Turcos",
+   "codigo": 2847,
+   "artigo": "Toalhetes COCOON 30x30",
+   "quantidade": 4000
+  },
+  {
+   "local": "B-301",
+   "tipo": "Fronhas",
+   "codigo": 65162,
+   "artigo": "Fronha Standard 60x80",
+   "quantidade": 120
+  },
+  {
+   "local": "B-301",
+   "tipo": "Turcos",
+   "codigo": 2847,
+   "artigo": "Toalhetes COCOON 30x30",
+   "quantidade": 500
+  },
+  {
+   "local": "B-301",
+   "tipo": "Turcos Pers",
+   "codigo": 601920,
+   "artigo": "Toalha Banho Elev Sofitel 100x150 blc - SOFITEL 2018",
+   "quantidade": 48
+  },
+  {
+   "local": "B-312",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 120
+  },
+  {
+   "local": "B-321",
+   "tipo": "Turcos",
+   "codigo": 65161,
+   "artigo": "Toalha Rosto S\/Luxo 70x90",
+   "quantidade": 437
+  },
+  {
+   "local": "B-322",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "C-101",
+   "tipo": "Lençóis",
+   "codigo": "Inst1",
+   "artigo": "Instituições - Lençois",
+   "quantidade": 1
+  },
+  {
+   "local": "C-102",
+   "tipo": "Ginásios",
+   "codigo": 560075,
+   "artigo": "Toalha de Rosto \"Belavista\"",
+   "quantidade": 301
+  },
+  {
+   "local": "C-102",
+   "tipo": "Roupões",
+   "codigo": 63833,
+   "artigo": "Roupão Bege",
+   "quantidade": 54
+  },
+  {
+   "local": "C-103",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 70832,
+   "artigo": "Guardanapo Ritz Amarelo",
+   "quantidade": 2112
+  },
+  {
+   "local": "C-103",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 3187,
+   "artigo": "Toalha BS Br 24x24",
+   "quantidade": 12,
+   "obs": "SOLAR DOS PRESUNTOS"
+  },
+  {
+   "local": "C-103",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 6735,
+   "artigo": "Toalha BS 12x12 BR",
+   "quantidade": 45,
+   "obs": "Solar dos Presuntos"
+  },
+  {
+   "local": "C-103",
+   "tipo": "Turcos",
+   "codigo": "Inst4",
+   "artigo": "Instituições - Turcos",
+   "quantidade": 150
+  },
+  {
+   "local": "C-103",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 21
+  },
+  {
+   "local": "C-112",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 100
+  },
+  {
+   "local": "C-113",
+   "tipo": "Turcos Pers",
+   "codigo": 560257,
+   "artigo": "Toalha Banho Inter Br 100x200",
+   "quantidade": 100
+  },
+  {
+   "local": "C-121",
+   "tipo": "Capas",
+   "codigo": 601235,
+   "artigo": "Capa S\/Luxo P26 Azul",
+   "quantidade": 464
+  },
+  {
+   "local": "C-122",
+   "tipo": "Turcos",
+   "codigo": 65161,
+   "artigo": "Toalha Rosto S\/Luxo 70x90",
+   "quantidade": 250
+  },
+  {
+   "local": "C-123",
+   "tipo": "Turcos Pers",
+   "codigo": 601920,
+   "artigo": "Toalha Banho Elev Sofitel 100x150 blc - SOFITEL 2018",
+   "quantidade": 192
+  },
+  {
+   "local": "C-202",
+   "tipo": "Piscinas",
+   "codigo": 66290,
+   "artigo": "Toalha Piscina Azul Royal (mesma martinhal)",
+   "quantidade": 200
+  },
+  {
+   "local": "C-203",
+   "tipo": "Roupões",
+   "codigo": 619602,
+   "artigo": "Roupão Logo Martinhal Residence",
+   "quantidade": 60
+  },
+  {
+   "local": "C-211",
+   "tipo": "Turcos",
+   "codigo": "Inst4",
+   "artigo": "Instituições - Turcos",
+   "quantidade": 180
+  },
+  {
+   "local": "C-212",
+   "tipo": "Turcos",
+   "codigo": "Inst4",
+   "artigo": "Instituições - Turcos",
+   "quantidade": 200
+  },
+  {
+   "local": "C-213",
+   "tipo": "Lençóis",
+   "codigo": 7375,
+   "artigo": "Lençol Classico 200x320 L.amarela",
+   "quantidade": 480
+  },
+  {
+   "local": "C-221",
+   "tipo": "Turcos Pers",
+   "codigo": 601920,
+   "artigo": "Toalha Banho Elev Sofitel 100x150 blc - SOFITEL 2018",
+   "quantidade": 192
+  },
+  {
+   "local": "C-222",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 120
+  },
+  {
+   "local": "C-223",
+   "tipo": "Turcos",
+   "codigo": 41073,
+   "artigo": "Toalha Banho NOVOTEL",
+   "quantidade": 240,
+   "obs": "MERCURE FÁTIMA"
+  },
+  {
+   "local": "C-301",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 70832,
+   "artigo": "Guardanapo Ritz Amarelo",
+   "quantidade": 1252
+  },
+  {
+   "local": "C-301",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 52
+  },
+  {
+   "local": "C-303",
+   "tipo": "Fronhas",
+   "codigo": 70516,
+   "artigo": "Fronha RITZ FESTON (PILLOW CASE) 1 56x117",
+   "quantidade": 1
+  },
+  {
+   "local": "C-311",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 40
+  },
+  {
+   "local": "C-311",
+   "tipo": "Turcos Pers",
+   "codigo": 560257,
+   "artigo": "Toalha Banho Inter Br 100x200",
+   "quantidade": 100
+  },
+  {
+   "local": "C-313",
+   "tipo": "Piscinas",
+   "codigo": 66290,
+   "artigo": "Toalha Piscina Azul Royal (mesma martinhal)",
+   "quantidade": 200
+  },
+  {
+   "local": "C-321",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 152
+  },
+  {
+   "local": "C-322",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 120
+  },
+  {
+   "local": "C-323",
+   "tipo": "Turcos Pers",
+   "codigo": 601920,
+   "artigo": "Toalha Banho Elev Sofitel 100x150 blc - SOFITEL 2018",
+   "quantidade": 237
+  },
+  {
+   "local": "C-401",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 10
+  },
+  {
+   "local": "C-411",
+   "tipo": "Capas",
+   "codigo": 601235,
+   "artigo": "Capa S\/Luxo P26 Azul",
+   "quantidade": 197
+  },
+  {
+   "local": "C-412",
+   "tipo": "Turcos",
+   "codigo": 65153,
+   "artigo": "Toalha de Banho Standard 70x150",
+   "quantidade": 327
+  },
+  {
+   "local": "C-413",
+   "tipo": "Turcos Pers",
+   "codigo": 619333,
+   "artigo": "Toalha Banho Ikonik 100x150",
+   "quantidade": 120
+  },
+  {
+   "local": "C-421",
+   "tipo": "Lençóis",
+   "codigo": "Inst1",
+   "artigo": "Instituições - Lençois",
+   "quantidade": 1
+  },
+  {
+   "local": "CO10A",
+   "tipo": "Roupões",
+   "codigo": "ON",
+   "artigo": "Roupão Onyria",
+   "quantidade": 54,
+   "obs": "Roupão Próprio"
+  },
+  {
+   "local": "CO10B",
+   "tipo": "Turcos",
+   "codigo": 63827,
+   "artigo": "Toalha Banho 100x160 BEGE SPA",
+   "quantidade": 120
+  },
+  {
+   "local": "CO10C",
+   "tipo": "Turcos Pers",
+   "codigo": 601920,
+   "artigo": "Toalha Banho Elev Sofitel 100x150 blc - SOFITEL 2018",
+   "quantidade": 192
+  },
+  {
+   "local": "CO10D",
+   "tipo": "Roupões",
+   "codigo": 619602,
+   "artigo": "Roupão Logo Martinhal Residence",
+   "quantidade": 90
+  },
+  {
+   "local": "CO10F",
+   "tipo": "Piscinas",
+   "codigo": 560224,
+   "artigo": "Toalha de Piscina AMARELA (42) 100x180",
+   "quantidade": 300
+  },
+  {
+   "local": "CO10G",
+   "tipo": "Roupões",
+   "codigo": 560288,
+   "artigo": "Roupão c\/ Capuz Criança O",
+   "quantidade": 139,
+   "obs": "Criança Martinhal"
+  },
+  {
+   "local": "CO10H",
+   "tipo": "Turcos",
+   "codigo": 65152,
+   "artigo": "Toalha Banho Luxo 100x150",
+   "quantidade": 240
+  },
+  {
+   "local": "CO10I",
+   "tipo": "Roupões",
+   "codigo": 1118,
+   "artigo": "Roupão Standard",
+   "quantidade": 100,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "CO10J",
+   "tipo": "Turcos Pers",
+   "codigo": 560260,
+   "artigo": "Tapete Banho Inter Br 50x85",
+   "quantidade": 400
+  },
+  {
+   "local": "CO10K",
+   "tipo": "Roupões",
+   "codigo": 1118,
+   "artigo": "Roupão Standard",
+   "quantidade": 75,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "CO11B",
+   "tipo": "Roupões",
+   "codigo": 560268,
+   "artigo": "Roupão Canelado Intercontinental L",
+   "quantidade": 66,
+   "obs": "Termas do Vimeiro"
+  },
+  {
+   "local": "CO11C",
+   "tipo": "Turcos Pers",
+   "codigo": 560260,
+   "artigo": "Tapete Banho Inter Br 50x85",
+   "quantidade": 360
+  },
+  {
+   "local": "CO11D",
+   "tipo": "Resg & Edredon & Prot",
+   "codigo": 49973,
+   "artigo": "Edredon 160x200",
+   "quantidade": 36
+  },
+  {
+   "local": "CO11F",
+   "tipo": "Piscinas",
+   "codigo": 66290,
+   "artigo": "Toalha Piscina Azul Royal (mesma martinhal)",
+   "quantidade": 120
+  },
+  {
+   "local": "CO11G",
+   "tipo": "Turcos",
+   "codigo": 65160,
+   "artigo": "Toalha Rosto Luxo 70x90",
+   "quantidade": 390
+  },
+  {
+   "local": "CO11H",
+   "tipo": "Turcos",
+   "codigo": "terraB",
+   "artigo": "Toalha Banho - Coleção Terra",
+   "quantidade": 60,
+   "obs": "Inactiva"
+  },
+  {
+   "local": "CO11I",
+   "tipo": "Resg & Edredon & Prot",
+   "codigo": 49975,
+   "artigo": "Edredon 240x220",
+   "quantidade": 30
+  },
+  {
+   "local": "CO11K",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 240
+  },
+  {
+   "local": "CO11K",
+   "tipo": "Turcos",
+   "codigo": 76511,
+   "artigo": "Toalha Bidé LJF",
+   "quantidade": 1400
+  },
+  {
+   "local": "CO12A",
+   "tipo": "Capas",
+   "codigo": 601235,
+   "artigo": "Capa S\/Luxo P26 Azul",
+   "quantidade": 230
+  },
+  {
+   "local": "CO12B",
+   "tipo": "Roupões",
+   "codigo": 560268,
+   "artigo": "Roupão Canelado Intercontinental L",
+   "quantidade": 75,
+   "obs": "Termas do Vimeiro"
+  },
+  {
+   "local": "CO12C",
+   "tipo": "Turcos",
+   "codigo": 65152,
+   "artigo": "Toalha Banho Luxo 100x150",
+   "quantidade": 240
+  },
+  {
+   "local": "CO12E",
+   "tipo": "Capas",
+   "codigo": 601235,
+   "artigo": "Capa S\/Luxo P26 Azul",
+   "quantidade": 243
+  },
+  {
+   "local": "CO12E",
+   "tipo": "Roupões",
+   "codigo": 1118,
+   "artigo": "Roupão Standard",
+   "quantidade": 90,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "CO12F",
+   "tipo": "Lençóis",
+   "codigo": 11143,
+   "artigo": "Lençol Classico 300x320 2L.preta",
+   "quantidade": 260
+  },
+  {
+   "local": "CO12G",
+   "tipo": "Turcos Pers",
+   "codigo": 601920,
+   "artigo": "Toalha Banho Elev Sofitel 100x150 blc - SOFITEL 2018",
+   "quantidade": 192
+  },
+  {
+   "local": "CO12H",
+   "tipo": "Resg & Edredon & Prot",
+   "codigo": 49975,
+   "artigo": "Edredon 240x220",
+   "quantidade": 30
+  },
+  {
+   "local": "CO12J",
+   "tipo": "Roupões",
+   "codigo": "ON",
+   "artigo": "Roupão Onyria",
+   "quantidade": 60,
+   "obs": "Roupão Próprio"
+  },
+  {
+   "local": "CO4A",
+   "tipo": "Roupões",
+   "codigo": 1118,
+   "artigo": "Roupão Standard",
+   "quantidade": 90,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "CO4B",
+   "tipo": "Roupões",
+   "codigo": 1118,
+   "artigo": "Roupão Standard",
+   "quantidade": 90,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "CO4C",
+   "tipo": "Roupões",
+   "codigo": 1118,
+   "artigo": "Roupão Standard",
+   "quantidade": 90,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "CO6C",
+   "tipo": "Roupões",
+   "codigo": 560081,
+   "artigo": "Roupão S\/Luxo LOGO \"HP\"",
+   "quantidade": 30
+  },
+  {
+   "local": "CO6C",
+   "tipo": "Turcos",
+   "codigo": 63824,
+   "artigo": "Toalha Rosto 50x100 BEGE  SPA",
+   "quantidade": 210
+  },
+  {
+   "local": "CO8A",
+   "tipo": "Lençóis",
+   "codigo": 74348,
+   "artigo": "Lençol MARRIOTT 210x310",
+   "quantidade": 210
+  },
+  {
+   "local": "CO8A",
+   "tipo": "Lençóis",
+   "codigo": 40337,
+   "artigo": "Lençol MARRIOTT 280x310",
+   "quantidade": 150
+  },
+  {
+   "local": "CO8B",
+   "tipo": "Capas",
+   "codigo": 38658,
+   "artigo": "Capa Marriott C180",
+   "quantidade": 120
+  },
+  {
+   "local": "CO8B",
+   "tipo": "Capas",
+   "codigo": 38567,
+   "artigo": "Capa Marriott C260",
+   "quantidade": 100
+  },
+  {
+   "local": "CO8C",
+   "tipo": "Turcos Pers",
+   "codigo": 38971,
+   "artigo": "Toalha Banho MOXY 75x153",
+   "quantidade": 220
+  },
+  {
+   "local": "CO8D",
+   "tipo": "Turcos",
+   "codigo": 63826,
+   "artigo": "Toalha Banho 100x160 CASTANHO  SPA",
+   "quantidade": 64
+  },
+  {
+   "local": "CO8D",
+   "tipo": "Turcos Pers",
+   "codigo": 38652,
+   "artigo": "Tapete Banho MARRIOT 50X75",
+   "quantidade": 230
+  },
+  {
+   "local": "CO8D",
+   "tipo": "Turcos Pers",
+   "codigo": 38971,
+   "artigo": "Toalha Banho MOXY 75x153",
+   "quantidade": 29
+  },
+  {
+   "local": "CO8E",
+   "tipo": "Turcos Pers",
+   "codigo": 38971,
+   "artigo": "Toalha Banho MOXY 75x153",
+   "quantidade": -210
+  },
+  {
+   "local": "CO8F",
+   "tipo": "Turcos",
+   "codigo": 63826,
+   "artigo": "Toalha Banho 100x160 CASTANHO  SPA",
+   "quantidade": 145
+  },
+  {
+   "local": "CO8I",
+   "tipo": "Turcos",
+   "codigo": 63826,
+   "artigo": "Toalha Banho 100x160 CASTANHO  SPA",
+   "quantidade": 140
+  },
+  {
+   "local": "CO8J",
+   "tipo": "Turcos",
+   "codigo": 63826,
+   "artigo": "Toalha Banho 100x160 CASTANHO  SPA",
+   "quantidade": 106
+  },
+  {
+   "local": "CO9A",
+   "tipo": "Turcos",
+   "codigo": 65153,
+   "artigo": "Toalha de Banho Standard 70x150",
+   "quantidade": 327
+  },
+  {
+   "local": "CO9B",
+   "tipo": "Piscinas",
+   "codigo": 601236,
+   "artigo": "Toalha Piscina R.Cinza 100x180",
+   "quantidade": 180
+  },
+  {
+   "local": "CO9C",
+   "tipo": "Piscinas",
+   "codigo": 356914,
+   "artigo": "Toalha Piscina Roxa",
+   "quantidade": 110,
+   "obs": "Martinhal"
+  },
+  {
+   "local": "CO9D",
+   "tipo": "Resg & Edredon & Prot",
+   "codigo": 49973,
+   "artigo": "Edredon 160x200",
+   "quantidade": 42
+  },
+  {
+   "local": "CO9E",
+   "tipo": "Capas",
+   "codigo": 619631,
+   "artigo": "Capa Cairo 240x270 c\/pala R\/castanha",
+   "quantidade": 264
+  },
+  {
+   "local": "CO9H",
+   "tipo": "Piscinas",
+   "codigo": 356914,
+   "artigo": "Toalha Piscina Roxa",
+   "quantidade": 150,
+   "obs": "Martinhal"
+  },
+  {
+   "local": "CO9I",
+   "tipo": "Turcos",
+   "codigo": 65160,
+   "artigo": "Toalha Rosto Luxo 70x90",
+   "quantidade": 1900
+  },
+  {
+   "local": "CO9J",
+   "tipo": "Ginásios",
+   "codigo": 560069,
+   "artigo": "T.Rosto Cinza Holmes Place",
+   "quantidade": 354
+  },
+  {
+   "local": "CO9J",
+   "tipo": "Ginásios",
+   "codigo": 560070,
+   "artigo": "Toa.banho Cinza Holmes P",
+   "quantidade": 55
+  },
+  {
+   "local": "CO9K",
+   "tipo": "Piscinas",
+   "codigo": 356914,
+   "artigo": "Toalha Piscina Roxa",
+   "quantidade": 186,
+   "obs": "Martinhal"
+  },
+  {
+   "local": "D 1",
+   "tipo": "Capas",
+   "codigo": 560254,
+   "artigo": "Capa Cairo S\/Pala 200x230",
+   "quantidade": 74
+  },
+  {
+   "local": "D 1",
+   "tipo": "Capas",
+   "codigo": 560453,
+   "artigo": "Capa EUROSTAR R\/Vermelha 270x280",
+   "quantidade": 130
+  },
+  {
+   "local": "D 1",
+   "tipo": "Capas",
+   "codigo": 600864,
+   "artigo": "Capa S\/Luxo P20 Cinza",
+   "quantidade": 80
+  },
+  {
+   "local": "D 1",
+   "tipo": "Capas",
+   "codigo": 601910,
+   "artigo": "Capa Sofitel l. Orange 220x270 blc - SOFITEL 2018",
+   "quantidade": 75
+  },
+  {
+   "local": "D 1",
+   "tipo": "Capas",
+   "codigo": 57103,
+   "artigo": "HC Ibis MM l.bleu 265x250",
+   "quantidade": 80
+  },
+  {
+   "local": "D 1",
+   "tipo": "Capas",
+   "codigo": 57104,
+   "artigo": "HC Ibis MM l.orange 175x250",
+   "quantidade": 80
+  },
+  {
+   "local": "D 1",
+   "tipo": "Capas",
+   "codigo": 30813,
+   "artigo": "Housse Strip S l.vert C200 blc",
+   "quantidade": 60
+  },
+  {
+   "local": "D 1",
+   "tipo": "Colchas",
+   "codigo": 4387,
+   "artigo": "Colchas etiq. 18",
+   "quantidade": 144
+  },
+  {
+   "local": "D 1",
+   "tipo": "Colchas",
+   "codigo": 4273,
+   "artigo": "Colchas etiq. 24",
+   "quantidade": 60
+  },
+  {
+   "local": "D 1",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 836,
+   "artigo": "Toalha FB 15x20",
+   "quantidade": 103
+  },
+  {
+   "local": "D 1",
+   "tipo": "Roupões",
+   "codigo": 560268,
+   "artigo": "Roupão Canelado Intercontinental L",
+   "quantidade": 30,
+   "obs": "Termas do Vimeiro"
+  },
+  {
+   "local": "D 1",
+   "tipo": "Roupões",
+   "codigo": 1118,
+   "artigo": "Roupão Standard",
+   "quantidade": 60,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "D 1",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 45
+  },
+  {
+   "local": "D 1",
+   "tipo": "Turcos",
+   "codigo": 76510,
+   "artigo": "Toalha de Banho XL LJF",
+   "quantidade": 50
+  },
+  {
+   "local": "D 1",
+   "tipo": "Turcos",
+   "codigo": 65161,
+   "artigo": "Toalha Rosto S\/Luxo 70x90",
+   "quantidade": 180
+  },
+  {
+   "local": "D 11",
+   "tipo": "Colchas",
+   "codigo": 4387,
+   "artigo": "Colchas etiq. 18",
+   "quantidade": 156
+  },
+  {
+   "local": "D 11",
+   "tipo": "Fronhas",
+   "codigo": 38654,
+   "artigo": "Fronha MARRIOTT 51x81",
+   "quantidade": 1967
+  },
+  {
+   "local": "D 11",
+   "tipo": "Piscinas",
+   "codigo": 560263,
+   "artigo": "Toalha 100x200 Cinza C7 - Intercontinental Estoril",
+   "quantidade": 100
+  },
+  {
+   "local": "D 11",
+   "tipo": "Resg & Edredon & Prot",
+   "codigo": 600779,
+   "artigo": "ResguardoS Etiq.09",
+   "quantidade": 50
+  },
+  {
+   "local": "D 11",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 671,
+   "artigo": "Toalha FB 8x8",
+   "quantidade": 380
+  },
+  {
+   "local": "D 11",
+   "tipo": "Roupões",
+   "codigo": 560268,
+   "artigo": "Roupão Canelado Intercontinental L",
+   "quantidade": 90,
+   "obs": "Termas do Vimeiro"
+  },
+  {
+   "local": "D 11",
+   "tipo": "Roupões",
+   "codigo": "ON",
+   "artigo": "Roupão Onyria",
+   "quantidade": -30,
+   "obs": "Roupão Próprio"
+  },
+  {
+   "local": "D 11",
+   "tipo": "Turcos",
+   "codigo": 76510,
+   "artigo": "Toalha de Banho XL LJF",
+   "quantidade": 50
+  },
+  {
+   "local": "D 11",
+   "tipo": "Turcos",
+   "codigo": 63824,
+   "artigo": "Toalha Rosto 50x100 BEGE  SPA",
+   "quantidade": 270
+  },
+  {
+   "local": "D 11",
+   "tipo": "Turcos Pers",
+   "codigo": 38971,
+   "artigo": "Toalha Banho MOXY 75x153",
+   "quantidade": 70
+  },
+  {
+   "local": "D 11",
+   "tipo": "Turcos Pers",
+   "codigo": 560206,
+   "artigo": "Toalha Ginásio Sofitel",
+   "quantidade": 70
+  },
+  {
+   "local": "D 12",
+   "tipo": "Capas",
+   "codigo": 560255,
+   "artigo": "Capa Cairo S\/Pala 220x230",
+   "quantidade": 80
+  },
+  {
+   "local": "D 12",
+   "tipo": "Capas",
+   "codigo": 1119,
+   "artigo": "Capa Strip Amarela",
+   "quantidade": 15,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "D 12",
+   "tipo": "Colchas",
+   "codigo": 4387,
+   "artigo": "Colchas etiq. 18",
+   "quantidade": 88
+  },
+  {
+   "local": "D 12",
+   "tipo": "Fronhas",
+   "codigo": 560199,
+   "artigo": "Prot almof SofitelEtiq.s",
+   "quantidade": 1780,
+   "obs": "SOFITEL"
+  },
+  {
+   "local": "D 12",
+   "tipo": "Piscinas",
+   "codigo": 356914,
+   "artigo": "Toalha Piscina Roxa",
+   "quantidade": 50,
+   "obs": "Martinhal"
+  },
+  {
+   "local": "D 12",
+   "tipo": "Resg & Edredon & Prot",
+   "codigo": 600779,
+   "artigo": "ResguardoS Etiq.09",
+   "quantidade": 50
+  },
+  {
+   "local": "D 12",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 37884,
+   "artigo": "Téte à Téte Authentique Taupe 45x110",
+   "quantidade": 1000
+  },
+  {
+   "local": "D 12",
+   "tipo": "Turcos",
+   "codigo": 63827,
+   "artigo": "Toalha Banho 100x160 BEGE SPA",
+   "quantidade": 140
+  },
+  {
+   "local": "D 12",
+   "tipo": "Turcos",
+   "codigo": 63824,
+   "artigo": "Toalha Rosto 50x100 BEGE  SPA",
+   "quantidade": 135
+  },
+  {
+   "local": "D 12",
+   "tipo": "Turcos Pers",
+   "codigo": 38971,
+   "artigo": "Toalha Banho MOXY 75x153",
+   "quantidade": 280
+  },
+  {
+   "local": "D 12",
+   "tipo": "Turcos Pers",
+   "codigo": 560259,
+   "artigo": "Toalha Bidé Inter Br 30x50",
+   "quantidade": 290
+  },
+  {
+   "local": "D 14",
+   "tipo": "Capas",
+   "codigo": 560255,
+   "artigo": "Capa Cairo S\/Pala 220x230",
+   "quantidade": 65
+  },
+  {
+   "local": "D 14",
+   "tipo": "Capas",
+   "codigo": 600864,
+   "artigo": "Capa S\/Luxo P20 Cinza",
+   "quantidade": 77
+  },
+  {
+   "local": "D 14",
+   "tipo": "Colchas",
+   "codigo": 560011,
+   "artigo": "Colchas etiq. 28",
+   "quantidade": 63
+  },
+  {
+   "local": "D 14",
+   "tipo": "Colchas",
+   "codigo": 560015,
+   "artigo": "Colchas etiq. 30",
+   "quantidade": 55
+  },
+  {
+   "local": "D 14",
+   "tipo": "Fronhas",
+   "codigo": 560063,
+   "artigo": "Fronha Luna 75x85x20 carioca",
+   "quantidade": 860
+  },
+  {
+   "local": "D 14",
+   "tipo": "Fronhas",
+   "codigo": 70517,
+   "artigo": "Fronha RITZ (PILLOW CASE) 2 56x105",
+   "quantidade": 268
+  },
+  {
+   "local": "D 14",
+   "tipo": "Fronhas",
+   "codigo": 560339,
+   "artigo": "Fronha RITZ Quadrada Etiq. S",
+   "quantidade": 1277
+  },
+  {
+   "local": "D 14",
+   "tipo": "Lençóis",
+   "codigo": 11143,
+   "artigo": "Lençol Classico 300x320 2L.preta",
+   "quantidade": 100
+  },
+  {
+   "local": "D 14",
+   "tipo": "Piscinas",
+   "codigo": 356914,
+   "artigo": "Toalha Piscina Roxa",
+   "quantidade": 50,
+   "obs": "Martinhal"
+  },
+  {
+   "local": "D 14",
+   "tipo": "Roupões",
+   "codigo": 619602,
+   "artigo": "Roupão Logo Martinhal Residence",
+   "quantidade": 60
+  },
+  {
+   "local": "D 14",
+   "tipo": "Roupões",
+   "codigo": 1118,
+   "artigo": "Roupão Standard",
+   "quantidade": 60,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "D 14",
+   "tipo": "Turcos",
+   "codigo": 63827,
+   "artigo": "Toalha Banho 100x160 BEGE SPA",
+   "quantidade": 300
+  },
+  {
+   "local": "D 14",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 90
+  },
+  {
+   "local": "D 14",
+   "tipo": "Turcos",
+   "codigo": 65160,
+   "artigo": "Toalha Rosto Luxo 70x90",
+   "quantidade": 360
+  },
+  {
+   "local": "D 14",
+   "tipo": "Turcos Pers",
+   "codigo": 38971,
+   "artigo": "Toalha Banho MOXY 75x153",
+   "quantidade": 280
+  },
+  {
+   "local": "D 15",
+   "tipo": "Fronhas",
+   "codigo": 560057,
+   "artigo": "Fronha Luxo 60x75",
+   "quantidade": 150,
+   "obs": "FORA SERVIÇO"
+  },
+  {
+   "local": "D 15",
+   "tipo": "Resg & Edredon & Prot",
+   "codigo": 601238,
+   "artigo": "ResguardoS Etiq. 16",
+   "quantidade": 44
+  },
+  {
+   "local": "D 15",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 5093,
+   "artigo": "Toalha Platine Bordeaux 12x12",
+   "quantidade": 328
+  },
+  {
+   "local": "D 15",
+   "tipo": "Turcos",
+   "codigo": 65166,
+   "artigo": "Tapete Banho S\/Luxo 50x80",
+   "quantidade": 200
+  },
+  {
+   "local": "D 17",
+   "tipo": "Capas",
+   "codigo": 57104,
+   "artigo": "HC Ibis MM l.orange 175x250",
+   "quantidade": 138
+  },
+  {
+   "local": "D 17",
+   "tipo": "Turcos",
+   "codigo": 63827,
+   "artigo": "Toalha Banho 100x160 BEGE SPA",
+   "quantidade": 120
+  },
+  {
+   "local": "D 18",
+   "tipo": "Capas",
+   "codigo": 560255,
+   "artigo": "Capa Cairo S\/Pala 220x230",
+   "quantidade": 74
+  },
+  {
+   "local": "D 18",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 355779,
+   "artigo": "Téte à Téte Cetim bege 50x140",
+   "quantidade": 260
+  },
+  {
+   "local": "D 18",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 560091,
+   "artigo": "Tete a Tete Etoupe Bege\/Kaki 40x115",
+   "quantidade": 350
+  },
+  {
+   "local": "D 2",
+   "tipo": "Capas",
+   "codigo": 356018,
+   "artigo": "Capa Cairo 260x270 c\/pala",
+   "quantidade": 157
+  },
+  {
+   "local": "D 2",
+   "tipo": "Capas",
+   "codigo": 560453,
+   "artigo": "Capa EUROSTAR R\/Vermelha 270x280",
+   "quantidade": 125
+  },
+  {
+   "local": "D 2",
+   "tipo": "Capas",
+   "codigo": 57104,
+   "artigo": "HC Ibis MM l.orange 175x250",
+   "quantidade": 137
+  },
+  {
+   "local": "D 2",
+   "tipo": "Colchas",
+   "codigo": 4273,
+   "artigo": "Colchas etiq. 24",
+   "quantidade": 60
+  },
+  {
+   "local": "D 2",
+   "tipo": "Colchas",
+   "codigo": 560011,
+   "artigo": "Colchas etiq. 28",
+   "quantidade": 56
+  },
+  {
+   "local": "D 2",
+   "tipo": "Lençóis",
+   "codigo": 1341,
+   "artigo": "Lençol Classico 180x320 L.laranja",
+   "quantidade": -170
+  },
+  {
+   "local": "D 2",
+   "tipo": "Lençóis",
+   "codigo": 7375,
+   "artigo": "Lençol Classico 200x320 L.amarela",
+   "quantidade": 420
+  },
+  {
+   "local": "D 2",
+   "tipo": "Piscinas",
+   "codigo": 5172,
+   "artigo": "Toalha de Piscina R.LARANJA 100x140",
+   "quantidade": 60
+  },
+  {
+   "local": "D 2",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 63818,
+   "artigo": "Toalha Cetim Branco 15x20",
+   "quantidade": 200
+  },
+  {
+   "local": "D 2",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": "TDIV",
+   "artigo": "Toalhas Diversas",
+   "quantidade": 75,
+   "obs": "1 Carro"
+  },
+  {
+   "local": "D 2",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 48203,
+   "artigo": "Toalha Authentique Taupe 15x15",
+   "quantidade": 193
+  },
+  {
+   "local": "D 2",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 5093,
+   "artigo": "Toalha Platine Bordeaux 12x12",
+   "quantidade": 280
+  },
+  {
+   "local": "D 2",
+   "tipo": "Roupões",
+   "codigo": 63833,
+   "artigo": "Roupão Bege",
+   "quantidade": 30
+  },
+  {
+   "local": "D 2",
+   "tipo": "Turcos",
+   "codigo": 65166,
+   "artigo": "Tapete Banho S\/Luxo 50x80",
+   "quantidade": 200
+  },
+  {
+   "local": "D 2",
+   "tipo": "Turcos",
+   "codigo": 63827,
+   "artigo": "Toalha Banho 100x160 BEGE SPA",
+   "quantidade": 100
+  },
+  {
+   "local": "D 2",
+   "tipo": "Turcos",
+   "codigo": 65154,
+   "artigo": "Toalha Banho S\/Luxo 100x170",
+   "quantidade": 45
+  },
+  {
+   "local": "D 2",
+   "tipo": "Turcos",
+   "codigo": 76510,
+   "artigo": "Toalha de Banho XL LJF",
+   "quantidade": 50
+  },
+  {
+   "local": "D 2",
+   "tipo": "Turcos",
+   "codigo": 63824,
+   "artigo": "Toalha Rosto 50x100 BEGE  SPA",
+   "quantidade": 250
+  },
+  {
+   "local": "D 2",
+   "tipo": "Turcos",
+   "codigo": 65160,
+   "artigo": "Toalha Rosto Luxo 70x90",
+   "quantidade": 180
+  },
+  {
+   "local": "D 20",
+   "tipo": "Ginásios",
+   "codigo": 560067,
+   "artigo": "Toa.banho Bege 70x140 HP",
+   "quantidade": 120
+  },
+  {
+   "local": "D 20",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 355791,
+   "artigo": "Guardanapo Verde Azeit.55x55",
+   "quantidade": 1140
+  },
+  {
+   "local": "D 20",
+   "tipo": "Turcos",
+   "codigo": 65166,
+   "artigo": "Tapete Banho S\/Luxo 50x80",
+   "quantidade": 400
+  },
+  {
+   "local": "D 21",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 560073,
+   "artigo": "Toa.Cetim Carvão 300x330",
+   "quantidade": 60
+  },
+  {
+   "local": "D 21",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 1264,
+   "artigo": "Toalha FB 18x18",
+   "quantidade": 100
+  },
+  {
+   "local": "D 23",
+   "tipo": "Rest - Guardanapos",
+   "codigo": 49949,
+   "artigo": "Guardanapo Bayadère 50x50",
+   "quantidade": 1440
+  },
+  {
+   "local": "D 3",
+   "tipo": "Lençóis",
+   "codigo": 1341,
+   "artigo": "Lençol Classico 180x320 L.laranja",
+   "quantidade": 170
+  },
+  {
+   "local": "D 5",
+   "tipo": "Capas",
+   "codigo": 560457,
+   "artigo": "Capa Aurea Br 205x280 R\/Azul",
+   "quantidade": 60,
+   "obs": "AUREA\/universal"
+  },
+  {
+   "local": "D 5",
+   "tipo": "Capas",
+   "codigo": 356018,
+   "artigo": "Capa Cairo 260x270 c\/pala",
+   "quantidade": 48
+  },
+  {
+   "local": "D 5",
+   "tipo": "Capas",
+   "codigo": 560426,
+   "artigo": "Capa HOT br 205x280 R\/AzuL",
+   "quantidade": 178
+  },
+  {
+   "local": "D 5",
+   "tipo": "Capas",
+   "codigo": 601235,
+   "artigo": "Capa S\/Luxo P26 Azul",
+   "quantidade": 70
+  },
+  {
+   "local": "D 5",
+   "tipo": "Capas",
+   "codigo": 32830,
+   "artigo": "Housse Stella S l.marron C240 blc",
+   "quantidade": 73
+  },
+  {
+   "local": "D 5",
+   "tipo": "Colchas",
+   "codigo": 560139,
+   "artigo": "Colcha Bege Stripe200x260",
+   "quantidade": 40
+  },
+  {
+   "local": "D 5",
+   "tipo": "Colchas",
+   "codigo": 1116,
+   "artigo": "Colcha Bege Templários\/logo azul",
+   "quantidade": 60,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "D 5",
+   "tipo": "Colchas",
+   "codigo": 4387,
+   "artigo": "Colchas etiq. 18",
+   "quantidade": 221
+  },
+  {
+   "local": "D 5",
+   "tipo": "Colchas",
+   "codigo": 560011,
+   "artigo": "Colchas etiq. 28",
+   "quantidade": 58
+  },
+  {
+   "local": "D 5",
+   "tipo": "Fronhas",
+   "codigo": 560063,
+   "artigo": "Fronha Luna 75x85x20 carioca",
+   "quantidade": 860
+  },
+  {
+   "local": "D 5",
+   "tipo": "Fronhas",
+   "codigo": 560217,
+   "artigo": "Fronha Sofitel Etiq.S+M",
+   "quantidade": 190
+  },
+  {
+   "local": "D 5",
+   "tipo": "Fronhas",
+   "codigo": 560199,
+   "artigo": "Prot almof SofitelEtiq.s",
+   "quantidade": 573,
+   "obs": "SOFITEL"
+  },
+  {
+   "local": "D 5",
+   "tipo": "Lençóis",
+   "codigo": 2051,
+   "artigo": "Lençol Classico 240x320 2L.verde",
+   "quantidade": 140
+  },
+  {
+   "local": "D 5",
+   "tipo": "Resg & Edredon & Prot",
+   "codigo": 600779,
+   "artigo": "ResguardoS Etiq.09",
+   "quantidade": 50
+  },
+  {
+   "local": "D 5",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 31294,
+   "artigo": "Toalha Carré Lama 18x18",
+   "quantidade": 96
+  },
+  {
+   "local": "D 5",
+   "tipo": "Roupões",
+   "codigo": 619602,
+   "artigo": "Roupão Logo Martinhal Residence",
+   "quantidade": 30
+  },
+  {
+   "local": "D 5",
+   "tipo": "Turcos",
+   "codigo": 65152,
+   "artigo": "Toalha Banho Luxo 100x150",
+   "quantidade": 60
+  },
+  {
+   "local": "D 5",
+   "tipo": "Turcos",
+   "codigo": 65160,
+   "artigo": "Toalha Rosto Luxo 70x90",
+   "quantidade": 358
+  },
+  {
+   "local": "D 6",
+   "tipo": "Colchas",
+   "codigo": 4387,
+   "artigo": "Colchas etiq. 18",
+   "quantidade": 198
+  },
+  {
+   "local": "D 6",
+   "tipo": "Colchas",
+   "codigo": 560236,
+   "artigo": "Colchas etiq. 20",
+   "quantidade": 190
+  },
+  {
+   "local": "D 6",
+   "tipo": "Piscinas",
+   "codigo": 356914,
+   "artigo": "Toalha Piscina Roxa",
+   "quantidade": 50,
+   "obs": "Martinhal"
+  },
+  {
+   "local": "D 6",
+   "tipo": "Resg & Edredon & Prot",
+   "codigo": 600779,
+   "artigo": "ResguardoS Etiq.09",
+   "quantidade": 50
+  },
+  {
+   "local": "D 6",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": "MARRIOT1",
+   "artigo": "Toalhas Coleção Antiga Marriot",
+   "quantidade": 140,
+   "obs": "Já não usam"
+  },
+  {
+   "local": "D 6",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 63814,
+   "artigo": "Toalha Cetim Branco 12x12",
+   "quantidade": 200
+  },
+  {
+   "local": "D 6",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 36228,
+   "artigo": "Toalha ODP Branco 13x13",
+   "quantidade": 50
+  },
+  {
+   "local": "D 6",
+   "tipo": "Roupões",
+   "codigo": 560268,
+   "artigo": "Roupão Canelado Intercontinental L",
+   "quantidade": 30,
+   "obs": "Termas do Vimeiro"
+  },
+  {
+   "local": "D 6",
+   "tipo": "Roupões",
+   "codigo": 1118,
+   "artigo": "Roupão Standard",
+   "quantidade": 50,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "D 6",
+   "tipo": "Turcos",
+   "codigo": 65166,
+   "artigo": "Tapete Banho S\/Luxo 50x80",
+   "quantidade": 200
+  },
+  {
+   "local": "D 6",
+   "tipo": "Turcos",
+   "codigo": 63827,
+   "artigo": "Toalha Banho 100x160 BEGE SPA",
+   "quantidade": 60
+  },
+  {
+   "local": "D 6",
+   "tipo": "Turcos",
+   "codigo": 65160,
+   "artigo": "Toalha Rosto Luxo 70x90",
+   "quantidade": 120
+  },
+  {
+   "local": "D 8",
+   "tipo": "Capas",
+   "codigo": 618709,
+   "artigo": "Capa Cairo 210x270 c\/ pala c\/ dupla linha cinza",
+   "quantidade": 50
+  },
+  {
+   "local": "D 8",
+   "tipo": "Capas",
+   "codigo": 356018,
+   "artigo": "Capa Cairo 260x270 c\/pala",
+   "quantidade": 52
+  },
+  {
+   "local": "D 8",
+   "tipo": "Capas",
+   "codigo": 34226,
+   "artigo": "Capa Novotel C260",
+   "quantidade": 70
+  },
+  {
+   "local": "D 8",
+   "tipo": "Capas",
+   "codigo": 601910,
+   "artigo": "Capa Sofitel l. Orange 220x270 blc - SOFITEL 2018",
+   "quantidade": 75
+  },
+  {
+   "local": "D 8",
+   "tipo": "Capas",
+   "codigo": 560229,
+   "artigo": "Capa Sonho 300x280 R\/Vermelha",
+   "quantidade": 66
+  },
+  {
+   "local": "D 8",
+   "tipo": "Fronhas",
+   "codigo": 560339,
+   "artigo": "Fronha RITZ Quadrada Etiq. S",
+   "quantidade": 788
+  },
+  {
+   "local": "D 8",
+   "tipo": "Fronhas",
+   "codigo": 560038,
+   "artigo": "Trav. S\/L 75x95 Etiq.E.S",
+   "quantidade": 680,
+   "obs": "estalagem"
+  },
+  {
+   "local": "D 8",
+   "tipo": "Lençóis",
+   "codigo": 7375,
+   "artigo": "Lençol Classico 200x320 L.amarela",
+   "quantidade": 140
+  },
+  {
+   "local": "D 8",
+   "tipo": "Lençóis",
+   "codigo": 560454,
+   "artigo": "Lençol EUROSTARS - risca vermelha pequeno",
+   "quantidade": 102
+  },
+  {
+   "local": "D 8",
+   "tipo": "Piscinas",
+   "codigo": 560433,
+   "artigo": "T.Piscina Azul 90x190 Eurostar",
+   "quantidade": 54
+  },
+  {
+   "local": "D 8",
+   "tipo": "Piscinas",
+   "codigo": 560077,
+   "artigo": "Toalha Piscina Cinza 100x180",
+   "quantidade": 7,
+   "obs": "IMMERSO"
+  },
+  {
+   "local": "D 8",
+   "tipo": "Resg & Edredon & Prot",
+   "codigo": 600779,
+   "artigo": "ResguardoS Etiq.09",
+   "quantidade": 68
+  },
+  {
+   "local": "D 8",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 671,
+   "artigo": "Toalha FB 8x8",
+   "quantidade": 203
+  },
+  {
+   "local": "D 8",
+   "tipo": "Roupões",
+   "codigo": 619602,
+   "artigo": "Roupão Logo Martinhal Residence",
+   "quantidade": 30
+  },
+  {
+   "local": "D 8",
+   "tipo": "Turcos",
+   "codigo": 65160,
+   "artigo": "Toalha Rosto Luxo 70x90",
+   "quantidade": 550
+  },
+  {
+   "local": "D 9",
+   "tipo": "Capas",
+   "codigo": 57104,
+   "artigo": "HC Ibis MM l.orange 175x250",
+   "quantidade": 76
+  },
+  {
+   "local": "D 9",
+   "tipo": "Colchas",
+   "codigo": 4387,
+   "artigo": "Colchas etiq. 18",
+   "quantidade": 73
+  },
+  {
+   "local": "D 9",
+   "tipo": "Colchas",
+   "codigo": 560011,
+   "artigo": "Colchas etiq. 28",
+   "quantidade": 61
+  },
+  {
+   "local": "D 9",
+   "tipo": "Piscinas",
+   "codigo": 560433,
+   "artigo": "T.Piscina Azul 90x190 Eurostar",
+   "quantidade": 60
+  },
+  {
+   "local": "D 9",
+   "tipo": "Roupões",
+   "codigo": 560268,
+   "artigo": "Roupão Canelado Intercontinental L",
+   "quantidade": 30,
+   "obs": "Termas do Vimeiro"
+  },
+  {
+   "local": "D 9",
+   "tipo": "Roupões",
+   "codigo": "ON",
+   "artigo": "Roupão Onyria",
+   "quantidade": 30,
+   "obs": "Roupão Próprio"
+  },
+  {
+   "local": "D 9",
+   "tipo": "Roupões",
+   "codigo": 1118,
+   "artigo": "Roupão Standard",
+   "quantidade": 30,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "D 9",
+   "tipo": "Turcos",
+   "codigo": 65152,
+   "artigo": "Toalha Banho Luxo 100x150",
+   "quantidade": 60
+  },
+  {
+   "local": "D 9",
+   "tipo": "Turcos",
+   "codigo": 65160,
+   "artigo": "Toalha Rosto Luxo 70x90",
+   "quantidade": 180
+  },
+  {
+   "local": "D 9",
+   "tipo": "Turcos",
+   "codigo": 65161,
+   "artigo": "Toalha Rosto S\/Luxo 70x90",
+   "quantidade": 405
+  },
+  {
+   "local": "D 9",
+   "tipo": "Turcos Pers",
+   "codigo": 38652,
+   "artigo": "Tapete Banho MARRIOT 50X75",
+   "quantidade": 250
+  },
+  {
+   "local": "D 9",
+   "tipo": "Turcos Pers",
+   "codigo": 38971,
+   "artigo": "Toalha Banho MOXY 75x153",
+   "quantidade": 210
+  },
+  {
+   "local": "E 12",
+   "tipo": "Capas",
+   "codigo": 57103,
+   "artigo": "HC Ibis MM l.bleu 265x250",
+   "quantidade": 80
+  },
+  {
+   "local": "E 12",
+   "tipo": "Capas",
+   "codigo": 57104,
+   "artigo": "HC Ibis MM l.orange 175x250",
+   "quantidade": -80
+  },
+  {
+   "local": "E 3",
+   "tipo": "Fronhas",
+   "codigo": 619157,
+   "artigo": "Fronha Cordone 65x80",
+   "quantidade": -880
+  },
+  {
+   "local": "E 3",
+   "tipo": "Fronhas",
+   "codigo": 560022,
+   "artigo": "Fronha Cordoné 65X80",
+   "quantidade": 880
+  },
+  {
+   "local": "E 3",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 1264,
+   "artigo": "Toalha FB 18x18",
+   "quantidade": -203
+  },
+  {
+   "local": "E 3",
+   "tipo": "Rest - Toa. Peq",
+   "codigo": 671,
+   "artigo": "Toalha FB 8x8",
+   "quantidade": 203
+  },
+  {
+   "local": "E 6",
+   "tipo": "Capas",
+   "codigo": 356018,
+   "artigo": "Capa Cairo 260x270 c\/pala",
+   "quantidade": 53
+  },
+  {
+   "local": "E 6",
+   "tipo": "Colchas",
+   "codigo": 4273,
+   "artigo": "Colchas etiq. 24",
+   "quantidade": 180
+  },
+  {
+   "local": "E 6",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 63821,
+   "artigo": "Toalha Cetim Branco 20x20",
+   "quantidade": 40
+  },
+  {
+   "local": "E 6",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 836,
+   "artigo": "Toalha FB 15x20",
+   "quantidade": 100
+  },
+  {
+   "local": "E 6",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 1264,
+   "artigo": "Toalha FB 18x18",
+   "quantidade": 100
+  },
+  {
+   "local": "E 6",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": 70831,
+   "artigo": "Toalha Ritz Branca 24x24",
+   "quantidade": 30
+  },
+  {
+   "local": "E 6",
+   "tipo": "Rest - Toa. Grd",
+   "codigo": "TDIV",
+   "artigo": "Toalhas Diversas",
+   "quantidade": 1,
+   "obs": "1 Carro"
+  },
+  {
+   "local": "E 6",
+   "tipo": "Roupões",
+   "codigo": 1118,
+   "artigo": "Roupão Standard",
+   "quantidade": 90,
+   "obs": "mudar o código"
+  },
+  {
+   "local": "G1.10",
+   "tipo": "Resg & Edredon & Prot",
+   "codigo": 49973,
+   "artigo": "Edredon 160x200",
+   "quantidade": 4
+  },
+  {
+   "local": "G1.3",
+   "tipo": "Turcos",
+   "codigo": 41073,
+   "artigo": "Toalha Banho NOVOTEL",
+   "quantidade": 240,
+   "obs": "MERCURE FÁTIMA"
+  },
+  {
+   "local": "VERÃO",
+   "tipo": "Turcos",
+   "codigo": 76510,
+   "artigo": "Toalha de Banho XL LJF",
+   "quantidade": 1920
+  }
+ ]

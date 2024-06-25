@@ -1,14 +1,14 @@
 /* Header.module.css */
 .header {
   display: flex;
-  width: 100vw;
+  width: 90vw;
   justify-content: space-between;
   align-items: center;
   color: #000000;
   background-color: #ffffff;
-  padding: 20px;
   border-radius: 20px;
   margin-bottom: 20px;
+  
 }
 
 .photoHeader {
@@ -26,17 +26,98 @@
   height: 50px;
 }
 
-.header button {
-  padding: 10px 20px;
-  background-color: white;
-  color: #007BFF;
-  border: 1px solid #0056b3;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background-color 0.3s, color 0.3s;
+.divMenu{
+  display: flex;
+  justify-content: space-evenly;
 }
 
-.header button:hover {
-  background-color: #0056b3;
-  color: white;
+.divBt{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 1px solid black;
+}
+
+.divLoginArea{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 90%;
+  
+  padding: 17px;
+  box-sizing: content-box;
+  background-color: #00A5AA;
+  border-radius: 0 20px 20px 0;
+
+  color: #ffffff;
+
+}
+
+.divLoginArea:hover{
+  background-color: #004a4d;
+  transition: 0.5s;
+}
+
+.link {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.iconDiv{
+  width: 100%;
+  justify-content: center;
+}
+.userInf{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.leaveInf{
+  display: flex;
+  padding-top: 10px;
+  justify-content: center;
+}
+.divLoginArea h3{
+  width: 100%;
+}
+
+.menuMobile{
+  display: none;
+  width: 100%;
+  border-radius: 20px;
+  background-color: white;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .divMenu{
+    display: none;
+  }
+  .photoHeader h3 {
+    display: none;
+  }
+  .menuMobile{
+    display: flex;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+ 
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1200px) {
+
 }
