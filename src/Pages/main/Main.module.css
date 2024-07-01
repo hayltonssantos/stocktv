@@ -4,4 +4,12 @@ main{
   justify-content: center;
   margin: auto;
   max-width: 90vw;
+  padding: 20px;
+}
+
+.footerLogin{
+  
+  padding: 0 10px 10px 10px;
+  color: black;
+  font-size: 0.73em;
 }

@@ -11,6 +11,9 @@ export default function Main() {
       <div>
         <Articles/>
       </div>
+      <footer className={styles.footerLogin}>
+        S.P.A.S.T.,- Sociedade Portuguesa de Aluguer e Serviço de Têxteis, S.A. © Todos os direitos reservados . Desenvolvido por Haylton Santos
+      </footer>
     </main>
   )
 }

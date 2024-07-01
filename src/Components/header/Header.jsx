@@ -8,15 +8,14 @@ import { IoIosLogIn } from "react-icons/io";
 import { FaRegUserCircle } from "react-icons/fa";
 import MenuMobile from '../menuMobile/MenuMobile';
 
-export default function Header({text,link = '', onclick = ''}) {
-  const { user, signIn, err, signOut } = useContext(UserContext)
+export default function Header({link = '', onclick = ''}) {
+  const { user, signIn, err, signOut, getInformations } = useContext(UserContext)
   const [textSair, setTextSair] = useState('Sair')
-  let [userNameSlice, setUserNameSlice] = useState()
+  let userNameSliceEmail = ''
 
   const sectionUser = () =>{
     if (user){
-      userNameSlice = user.email.substring(0,user.email.indexOf("@"))
-      userNameSlice = userNameSlice.toUpperCase()
+      userNameSliceEmail = getInformations()[1]
       return(
       <a className={styles.link} onClick={(e) => {
         setTextSair('Saindo')
@@ -29,7 +28,7 @@ export default function Header({text,link = '', onclick = ''}) {
             <div className={styles.userInf}>
               <FaRegUserCircle size={'25px'} />
               <span>
-                {userNameSlice}
+                {userNameSliceEmail}
               </span>
             </div>
           </div>
@@ -63,7 +62,7 @@ export default function Header({text,link = '', onclick = ''}) {
     <div>
       <header className={styles.header}>
         <div className={styles.photoHeader}>
-          <a href="#">
+          <a href="/home">
             <img src={logo}/>
           </a>
           <h3>Armazém TV</h3>
@@ -71,6 +70,8 @@ export default function Header({text,link = '', onclick = ''}) {
         <div className={styles.divMenu}>
           <Button text={'Home'} link={'/home'} onclick={(e) => onclick}/>
           <Button text={'Adicionar Artigo'} link={'/add'} onclick={(e) => onclick}/>
+          <Button text={'Ver Log'} link={'/log'} onclick={(e) => onclick}/>
+          <Button text={'Config'} link={'/config'} onclick={(e) => onclick}/>
         </div>
         <div className={styles.divBt}>
           {sectionUser()}

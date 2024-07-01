@@ -6,7 +6,7 @@ export default function ({text, onclick, link = '', type='', children}) {
     return (
       <button className={styles.btnB} 
         type={type} 
-        onClick={(e) => onclick}>
+        onClick={onclick}>
           {children}
           {text}
       </button>

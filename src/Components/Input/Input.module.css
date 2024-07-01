@@ -19,13 +19,14 @@
 
     outline: none;
 
+    background-color: aliceblue;
+
 }
 
 input:focus {
     border: none;
     transition: 2s;
-    animation: changeSize 1s, in 1s infinite;
-    width: 80%;
+    animation: in 1s infinite;
 }
 
 

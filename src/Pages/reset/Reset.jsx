@@ -1,18 +1,22 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom';
 import { UserContext } from '../../Context/userContext';
-import styles from './Login.module.css'
+import styles from './Reset.module.css'
 import Input from '../../Components/Input/Input';
 import logo from '../../assets/logo.png'
+import { getAuth, sendPasswordResetEmail } from 'firebase/auth';
+import firebaseApp from '../../../services/firebase';
+import { getFirestore} from 'firebase/firestore';
 
-export default function Login({where = '/home'}) {
 
-  const { user, signIn, err, returnUrl, setReturnUrl, handleReset } = useContext(UserContext)
+export default function Reset({where = '/home'}) {
+
+  const { user, signIn, err, returnUrl, setReturnUrl, handleReset, setEmail } = useContext(UserContext)
   const navigate = useNavigate();
   const location = useLocation();
-
-  const [email, setEmail] = useState();
-  const [password, setPassword] = useState();
+  const auth = getAuth();
+  
+  const db = getFirestore(firebaseApp);
 
   useEffect(() => {
       if (user) {
@@ -23,14 +27,12 @@ export default function Login({where = '/home'}) {
       }
   }, [user, navigate,returnUrl, location.state?.from?.pathname, setReturnUrl])
   
-  const handleSingIn = (email, password) => {
-    signIn(email, password)
-
-  }
   const wrong = () =>{ if (err) {
     return <p>Wrong email or password</p>
     
   }}
+
+
   return (
     <div className={styles.login}>
     <div className={styles.divLogin}>
@@ -44,22 +46,26 @@ export default function Login({where = '/home'}) {
             <p className={styles.title}>Torres Vedras</p>
           </div>
         </div>
-        
+        <p className={''}>Reset de password</p>
         <div className={styles.containerLogin}>
           <span>{wrong(err)}</span>
           <Input width={'100%'} type={'text'} onChange={setEmail} placeholder={'Email'} />
-          <Input width={'100%'} type={'password'} onChange={setPassword} placeholder={'Password'} />
+          
           <div className={styles.btn}>    
               <button className={styles.btnB}
-                  onClick={() => {handleSingIn(email, password)}}>
-                  Login
+                  onClick={() => {navigate('/home')}}>
+                  Cancel
               </button>
               <button className={styles.btnB}
-                  onClick={() => {navigate('/home')}}>
-                  Home
+                  onClick={(e) => {
+                    handleReset(e)
+                    setTimeout(() =>{
+                      navigate('/home')
+                    },1500)
+                    }}>
+                  Reset
               </button>
           </div>
-          <p onClick={(e) => navigate('/reset')} className={styles.forgot}>Esqueci-me da minha password</p>
         </div>
       </div>
     </div>

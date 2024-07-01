@@ -3,9 +3,11 @@ import { createContext, useEffect, useState } from "react";
 import {
     getAuth,
     signInWithEmailAndPassword,
+    sendPasswordResetEmail,
     signOut as signOutFirebase,
     onAuthStateChanged
 } from 'firebase/auth';
+
 
 const UserContext = createContext({})
 
@@ -16,6 +18,11 @@ const UserProvider = ({ children }) => {
     const [user, setUser] = useState(null)
     const [loading, setLoading] = useState(true)
     const [err, setErr] = useState('')
+    let [userNameSliceEmail, setUserNameSliceEmail] = useState()
+    let [userNameSliceDot, setUserNameSliceDot] = useState()
+    const [email, setEmail] = useState();
+
+  const [returnUrl, setReturnUrl] = useState('/');
 
     useEffect(() => {
         return onAuthStateChanged(auth, listenAuth)
@@ -25,6 +32,14 @@ const UserProvider = ({ children }) => {
        /*  console.log('listenAuth', userState) */
         await setUser(auth.currentUser)
         setLoading(false)
+    }
+
+    const getInformations = () =>{
+        userNameSliceEmail = user.email.substring(0,user.email.indexOf("@"))
+        userNameSliceEmail = userNameSliceEmail.toUpperCase()
+        userNameSliceDot = String( user.email.substring(0,user.email.indexOf("."))).replace([/[,|\s]+/g,". "])
+        userNameSliceDot = userNameSliceDot.toUpperCase()
+        return [userNameSliceEmail, userNameSliceDot]
     }
 
 
@@ -42,6 +57,16 @@ const UserProvider = ({ children }) => {
 
     }
 
+    const handleReset = (e) => {
+        e.preventDefault()
+        sendPasswordResetEmail(auth, email).then(data=>{
+        alert("Check your email")
+        }).catch(err=>{
+        console.log(err)
+        alert(err.code)
+        })
+    }
+
     const signOut = () => {
         /* console.log('sai!!!') */
         setLoading(true)
@@ -56,7 +81,7 @@ const UserProvider = ({ children }) => {
     }
 
     return (
-        <UserContext.Provider value={{ couldLogin, signIn, signOut, user, loading, err }}>
+        <UserContext.Provider value={{ couldLogin, signIn, signOut, user, loading, err, returnUrl, setReturnUrl, handleReset, getInformations, setEmail}}>
             {children}
         </UserContext.Provider>
     )

@@ -11,6 +11,12 @@ export default function MenuMobile(){
         <li className={styles.listU}>
           <a href="/add">Adicionar Artigo</a>
         </li>
+        <li className={styles.listU}>
+          <a href="/log">Log</a>
+        </li>
+        <li className={styles.listU}>
+          <a href="/Config">Config</a>
+        </li>
       </ul>
     </div>
   )

@@ -202,9 +202,7 @@ const handleSelectTipo = (selectedTipo) => {
           </div>
           <div className={styles.divButton}>
             <Button type='submit' text={loading ? 'Adicionando...' : 'Adicionar'} disabled={loading} />
-            <Button type='submit' text={loading ? 'Adicionando...' : 'Adicionar +1'} 
-              onChange={(e) => emptyInputs()}
-              disabled={loading} />
+            
           </div>
           {error && <p className={styles.error}>{error}</p>}
         </form>

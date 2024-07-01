@@ -1,6 +1,6 @@
 import React, { createContext, useEffect, useState } from 'react';
 import firebaseApp from '../../services/firebase';
-import { getFirestore, addDoc, collection, onSnapshot, query, updateDoc, doc, setDoc, getDocs } from 'firebase/firestore';
+import { getFirestore, addDoc, collection, onSnapshot, query, updateDoc, doc, setDoc, getDocs, serverTimestamp } from 'firebase/firestore';
 
 export const ItemsContext = createContext();
 
@@ -46,7 +46,21 @@ export const ItemsProvider = ({ children }) => {
     fetchData();
   }, []);
 
-  const addArtigo = async (local,tipo = '', codigo, artigo, quantidade,obs = '') => {
+  const addLogEntry = async (action, articleData) => {
+    const logData = {
+      ...articleData,
+      action,
+      timestamp: serverTimestamp(),
+    };
+
+    try {
+      await addDoc(collection(db, 'logs'), logData);
+    } catch (error) {
+      console.error("Error adding log entry: ", error);
+    }
+  };
+
+  const addArtigo = async (local, tipo = '', codigo, artigo, quantidade, obs = '') => {
     const articleData = {
       id: codigo,
       tipo,
@@ -69,6 +83,7 @@ export const ItemsProvider = ({ children }) => {
       await setDoc(doc(db, pathDoc), temp);
       await setDoc(doc(db, pathArticle), articleData);
       await updateDoc(doc(db, pathArticle), articleData);
+      await addLogEntry('create', { ...articleData, local }); // Log creation
     } catch (error) {
       throw new Error('Erro ao adicionar artigo: ' + error.message);
     }

@@ -1,0 +1,26 @@
+.card{
+  display: flex;
+  justify-content: left;
+
+  background-color: #00A5AA;
+  margin: 20px;
+
+  min-width: 150px;
+  height: 100px;
+  border-radius: 20px;
+
+  cursor: pointer;
+
+  text-decoration: none;
+
+
+}
+
+.card p{
+  color: #fff;
+  font-weight: 300;
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  word-break: break-word;
+}
