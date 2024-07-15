@@ -1,22 +1,94 @@
 [
   {
-   "local": "A-101",
-   "tipo": "Turcos",
-   "codigo": 65154,
-   "artigo": "Toalha Banho S\/Luxo 100x170",
-   "quantidade": 120
-  },
-  {
-   "local": "A-102",
-   "tipo": "Aventais & Panos",
-   "codigo": 449,
-   "artigo": "Pano de Serviço 50x50",
-   "quantidade": 970
-  },
-  {
-   "local": "A-103",
-   "tipo": "Turcos",
-   "codigo": 65154,
-   "artigo": "Toalha Banho S\/Luxo 100x170",
-   "quantidade": 120
-  } ]
+    "local": "A-101",
+    "tipo": "Turcos",
+    "codigo": 65154,
+    "artigo": "Toalha Banho S\/Luxo 100x170",
+    "quantidade": 120
+   },
+   {
+    "local": "A-102",
+    "tipo": "Aventais & Panos",
+    "codigo": 449,
+    "artigo": "Pano de Serviço 50x50",
+    "quantidade": 970
+   },
+   {
+    "local": "A-103",
+    "tipo": "Turcos",
+    "codigo": 65154,
+    "artigo": "Toalha Banho S\/Luxo 100x170",
+    "quantidade": 120
+   },
+   {
+    "local": "A-111",
+    "tipo": "Turcos",
+    "codigo": 65154,
+    "artigo": "Toalha Banho S\/Luxo 100x170",
+    "quantidade": 120
+   },
+   {
+    "local": "A-112",
+    "tipo": "Turcos",
+    "codigo": 65161,
+    "artigo": "Toalha Rosto S\/Luxo 70x90",
+    "quantidade": 285
+   },
+   {
+    "local": "A-113",
+    "tipo": "Aventais & Panos",
+    "codigo": 1141,
+    "artigo": "Pano de Cozinha 50x50",
+    "quantidade": 910
+   },
+   {
+    "local": "A-113",
+    "tipo": "Aventais & Panos",
+    "codigo": 449,
+    "artigo": "Pano de Serviço 50x50",
+    "quantidade": 130
+   },
+   {
+    "local": "A-121",
+    "tipo": "Turcos Pers",
+    "codigo": 38934,
+    "artigo": "Toalha Banho ACCOR UNIV. 68X133",
+    "quantidade": 180,
+    "obs": "MERCURE"
+   },
+   {
+    "local": "A-122",
+    "tipo": "Turcos",
+    "codigo": 65153,
+    "artigo": "Toalha de Banho Standard 70x150",
+    "quantidade": 300
+   },
+   {
+    "local": "A-123",
+    "tipo": "Turcos",
+    "codigo": 65154,
+    "artigo": "Toalha Banho S\/Luxo 100x170",
+    "quantidade": 130
+   },
+   {
+    "local": "A-201",
+    "tipo": "Rest - Guardanapos",
+    "codigo": 560018,
+    "artigo": "Toalhete GIRASSOL 55X47",
+    "quantidade": 300
+   },
+   {
+    "local": "A-201",
+    "tipo": "Rest - Toa. Peq",
+    "codigo": 12345,
+    "artigo": "Table choco 45x100",
+    "quantidade": 140
+   },
+   {
+    "local": "A-201",
+    "tipo": "Rest - Toa. Peq",
+    "codigo": 560379,
+    "artigo": "Téte à Téte \"TAF\" Chocolate 50x140",
+    "quantidade": 100
+   }
+]

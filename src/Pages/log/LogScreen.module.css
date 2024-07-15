@@ -1,5 +1,12 @@
 .logScreen {
-  padding: 20px;
+  padding-top: 20px;
+  width: 90vw;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 
 .text {
@@ -9,16 +16,65 @@
 .logContainer {
   display: flex;
   height: 70vh;
+  width: 90vw;
+  margin: auto;
   flex-direction: column;
   overflow-y: scroll;
 }
 
 .logEntry {
+  position: relative;
   background-color: #f9f9f9;
   border: 1px solid #ddd;
   padding: 15px;
   margin-bottom: 10px;
+  border-radius: 10px;
+  width: 70vw;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.trash {
+  position: absolute;
+  right: 0px;
+  top: 0;
+  font-size: 1.2em;
+  padding: 10px;
+  border-radius: 0px 10px 0px 0px;
+  background-color: rgb(204, 11, 11);
+  color: #fff;
+  cursor: pointer;
+}
+
+.confirmDelete {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.confirmDelete button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  border: none;
   border-radius: 5px;
+  cursor: pointer;
+}
+
+.confirmDelete button:first-child {
+  background-color: #ddd;
+}
+
+.confirmDelete button:last-child {
+  background-color: #cc0b0b;
+  color: #fff;
 }
 
 .logEntry p {

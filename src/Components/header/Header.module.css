@@ -28,7 +28,9 @@
 
 .divMenu{
   display: flex;
+  height: auto;
   justify-content: space-evenly;
+  
 }
 
 .divBt{
@@ -44,7 +46,7 @@
   justify-content: center;
   width: 90%;
   
-  padding: 17px;
+  padding: 17px 17px 17px 0;
   box-sizing: content-box;
   background-color: #00A5AA;
   border-radius: 0 20px 20px 0;
@@ -104,20 +106,53 @@
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 600px) {
+  .divMenu{
+    display: none;
+  }
+  .photoHeader h3 {
+    display: none;
+  }
+  .menuMobile{
+    display: flex;
+  }
 
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (max-width: 768px) {
- 
+  .divMenu{
+    display: none;
+  }
+  .photoHeader h3 {
+    display: none;
+  }
+  .menuMobile{
+    display: flex;
+  }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (max-width: 992px) {
-
+  .divMenu{
+    display: none;
+  }
+  .photoHeader h3 {
+    display: none;
+  }
+  .menuMobile{
+    display: flex;
+  }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (max-width: 1200px) {
-
+  .divMenu{
+    display: none;
+  }
+  .photoHeader h3 {
+    display: none;
+  }
+  .menuMobile{
+    display: flex;
+  }
 }

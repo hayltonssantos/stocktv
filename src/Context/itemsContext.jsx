@@ -53,6 +53,7 @@ export const ItemsProvider = ({ children }) => {
       timestamp: serverTimestamp(),
     };
 
+
     try {
       await addDoc(collection(db, 'logs'), logData);
     } catch (error) {
@@ -79,11 +80,13 @@ export const ItemsProvider = ({ children }) => {
     pathArticle = `articles/${local}/codes/${codigo}`;
     pathDoc = `articles/${local}`;
 
+    const {id, ...restArticleData} = articleData
+    
     try {
       await setDoc(doc(db, pathDoc), temp);
       await setDoc(doc(db, pathArticle), articleData);
       await updateDoc(doc(db, pathArticle), articleData);
-      await addLogEntry('create', { ...articleData, local }); // Log creation
+      /* await addLogEntry('create', { ...restArticleData, local }); */ // Log creation
     } catch (error) {
       throw new Error('Erro ao adicionar artigo: ' + error.message);
     }

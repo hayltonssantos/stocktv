@@ -12,6 +12,9 @@ import LogScreen from './Pages/log/LogScreen'
 import Reset from './Pages/reset/Reset'
 import Register from './Pages/register/Register'
 import Config from './Pages/config/Config'
+import Reports from './Pages/reports/Reports'
+import CreateUser from './Pages/createUser/CreateUser'
+import Dashboard from './Pages/dashboard/Dashboard'
 
 
 function App() {
@@ -31,6 +34,9 @@ function App() {
               <Route path='add' element={<ProtectedRoutes><AddArticles/></ProtectedRoutes>}/>
               <Route path='log' element={<ProtectedRoutes><LogScreen/></ProtectedRoutes>}/>
               <Route path='config' element={<ProtectedRoutes><Config/></ProtectedRoutes>}/>
+              <Route path='reports' element={<ProtectedRoutes><Reports/></ProtectedRoutes>}/>
+              <Route path='dashboard' element={<ProtectedRoutes><Dashboard/></ProtectedRoutes>}/>
+              <Route path='newuser' element={<CreateUser/>}/>
             
 
               <Route path='/' element={<Navigate to={'/home'}/>}/>

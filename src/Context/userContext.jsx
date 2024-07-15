@@ -4,6 +4,7 @@ import {
     getAuth,
     signInWithEmailAndPassword,
     sendPasswordResetEmail,
+    createUserWithEmailAndPassword,
     signOut as signOutFirebase,
     onAuthStateChanged
 } from 'firebase/auth';
@@ -67,6 +68,17 @@ const UserProvider = ({ children }) => {
         })
     }
 
+    const handleCreate = async (e,email, senha ) =>{
+        e.preventDefault()
+        await createUserWithEmailAndPassword(auth,email,senha).then(userCredential=>{
+            alert("Sucesso")
+            setUser(userCredential.user) 
+        }).catch(err=>{
+                alert(err.code)
+            })
+        
+    }
+
     const signOut = () => {
         /* console.log('sai!!!') */
         setLoading(true)
@@ -81,7 +93,8 @@ const UserProvider = ({ children }) => {
     }
 
     return (
-        <UserContext.Provider value={{ couldLogin, signIn, signOut, user, loading, err, returnUrl, setReturnUrl, handleReset, getInformations, setEmail}}>
+        <UserContext.Provider value={{ couldLogin, signIn, signOut, user, loading, err, returnUrl, setReturnUrl, 
+        handleReset, getInformations, setEmail,handleCreate}}>
             {children}
         </UserContext.Provider>
     )

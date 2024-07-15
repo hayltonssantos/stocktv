@@ -63,6 +63,12 @@ export default function Articles() {
     }
   };
 
+  const handleKeyUp = (evento) =>{
+    if(evento.key === 'Enter'){
+      handleSearch()
+    }
+  }
+
   const filteredItems = getFilteredItems();
 
   return (
@@ -80,6 +86,7 @@ export default function Articles() {
           name="searchinput"
           value={text}
           onChange={handleTextChange}
+          onKeyUp={handleKeyUp}
         />
         <button onClick={handleSearch}>Procurar</button>
       </div>
