@@ -23,6 +23,7 @@ export default function Config(){
           <Card link="/log" text={'Registro de alteraçoes'}/>
           <Card link='/newuser' text={'Novos Usuários'}/>
           <Card link="/reports" text={'Gerar Backup'}/>
+          <Card link="/articles" text={'Artigos'}/>
         </div>
       </div>
     </div>

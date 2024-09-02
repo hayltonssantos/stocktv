@@ -15,6 +15,7 @@ import Config from './Pages/config/Config'
 import Reports from './Pages/reports/Reports'
 import CreateUser from './Pages/createUser/CreateUser'
 import Dashboard from './Pages/dashboard/Dashboard'
+import AllArticles from './Pages/AllArticles/AllArticles'
 
 
 function App() {
@@ -37,6 +38,7 @@ function App() {
               <Route path='reports' element={<ProtectedRoutes><Reports/></ProtectedRoutes>}/>
               <Route path='dashboard' element={<ProtectedRoutes><Dashboard/></ProtectedRoutes>}/>
               <Route path='newuser' element={<CreateUser/>}/>
+              <Route path='articles' element={<AllArticles/>}/>
             
 
               <Route path='/' element={<Navigate to={'/home'}/>}/>

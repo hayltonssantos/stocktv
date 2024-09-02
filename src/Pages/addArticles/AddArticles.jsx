@@ -57,17 +57,17 @@ export default function AddArticles() {
 
   const loadArtigosFromJson = async () => {
     try {
-      const artigos = json;
-      const artigosArray = artigos.map(artigo => ({
-        tipo: artigo.tipo,
-        codigo: artigo.codigo,
-        artigo: artigo.artigo
+      const artigosArray = Object.values(json).map(item => ({
+        tipo: item.tipo,
+        codigo: item.codigo,
+        artigo: item.artigo
       }));
       setAllArtigos(artigosArray);
     } catch (err) {
       console.error(err);
     }
   };
+  
 
   useEffect(() => {
     loadArtigosFromJson();
