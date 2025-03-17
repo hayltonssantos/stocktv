@@ -86,7 +86,7 @@ export const ItemsProvider = ({ children }) => {
       await setDoc(doc(db, pathDoc), temp);
       await setDoc(doc(db, pathArticle), articleData);
       await updateDoc(doc(db, pathArticle), articleData);
-      /* await addLogEntry('create', { ...restArticleData, local }); */ // Log creation
+      await addLogEntry('create', { ...restArticleData, local }); // Log creation
     } catch (error) {
       throw new Error('Erro ao adicionar artigo: ' + error.message);
     }
@@ -104,7 +104,7 @@ export const ItemsProvider = ({ children }) => {
   };
 
   return (
-    <ItemsContext.Provider value={{ items, setItems, getFilteredItems, setSearchLocal, setSearchArt, setSearchCod, addArtigo, setSearchTipo }}>
+    <ItemsContext.Provider value={{ items, setItems, getFilteredItems, setSearchLocal, setSearchArt, setSearchCod, addArtigo, setSearchTipo, addLogEntry }}>
       {children}
     </ItemsContext.Provider>
   );
